@@ -1,0 +1,5 @@
+4
+0001 5 João-de-Almeida 4827.89
+0002 15 Maria-do-Carmo 1764.0
+0003 16 Carlos-de-Araújo 3753.0
+0004 8 Daniela-Bezerra 15000.0
